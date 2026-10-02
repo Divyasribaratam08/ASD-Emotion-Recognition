@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+models/
+datasets/
+results/
+*.h5
+*.keras
+*.pth
+*.pt
+*.pkl
