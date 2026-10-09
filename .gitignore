@@ -11,3 +11,24 @@ results/
 *.pth
 *.pt
 *.pkl
+# Downloaded repositories and model assets
+face/fer/
+speech/Speech-Emotion-Recognition/
+behavior/mediapipe/
+behavior/pose_landmarker.task
+
+# Generated features and predictions
+behavior/berd_features.csv
+behavior/behavior_features.json
+behavior/combined_features.json
+behavior/pose_landmarks.json
+behavior/temporal_features.json
+behavior/face_emotion.json
+face/face_emotion.json
+speech/speech_emotion.json
+
+# Local test media and recordings
+behavior/test_image.png
+behavior/test_video.mp4
+face/myImage.png
+speech/Recording*.wav
