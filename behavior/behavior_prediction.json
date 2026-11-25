@@ -1,0 +1,18 @@
+{
+    "source": "C:\\Users\\divya\\Documents\\BTech-Project\\ASD-Emotion-Recognition\\datasets\\stimulus\\word\\1_1_1.csv",
+    "model": "RandomForestClassifier",
+    "input_frames": 149,
+    "joints": 18,
+    "features_per_frame": 54,
+    "predicted_emotion": "happy",
+    "emotions": {
+        "angry": 0.2076174496644296,
+        "disgust": 0.04453020134228184,
+        "fear": 0.05734899328859058,
+        "happy": 0.26144295302013437,
+        "neutral": 0.12315436241610732,
+        "sad": 0.15953020134228194,
+        "surprise": 0.1463758389261744
+    },
+    "note": "Recording-level result obtained by averaging frame probabilities. This is an experimental emotion prediction, not an ASD diagnosis."
+}

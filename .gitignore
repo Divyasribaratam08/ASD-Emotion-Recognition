@@ -32,3 +32,12 @@ behavior/test_image.png
 behavior/test_video.mp4
 face/myImage.png
 speech/Recording*.wav
+.venv/
+__pycache__/
+datasets/
+models/*.pkl
+behavior/berd_features_*.csv
+*.wav
+*.m4a
+*.mp4
+*.task
