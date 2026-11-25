@@ -50,3 +50,7 @@ behavior/berd_features_*.csv
 *.m4a
 *.mp4
 *.task
+
+# Live inference outputs
+behavior/live_behavior_features.json
+speech/live_speech_emotion.json
