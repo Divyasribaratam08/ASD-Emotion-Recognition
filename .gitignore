@@ -41,3 +41,12 @@ behavior/berd_features_*.csv
 *.m4a
 *.mp4
 *.task
+.venv/
+__pycache__/
+datasets/
+models/*.pkl
+behavior/berd_features_*.csv
+*.wav
+*.m4a
+*.mp4
+*.task
